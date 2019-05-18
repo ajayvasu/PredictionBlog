@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <?php
- echo "data";
+
  ?>
 
  <html lang="en">
@@ -11,7 +11,16 @@
  </head>
 
  <body>
-   <p>This is a line of text</p>
+    <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Predictions</a></li>
+        <li><a href="#">Opinions</a></li>
+        <li><a href="#">Discussions</a></li>
+    </ul>
+    <div id="contentBox">
+       <p>Latest stories</p>
+    </div>
+
  </body>
 
 
