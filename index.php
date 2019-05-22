@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <?php
-  phpinfo();
+  echo "Hello ";
  ?>
 
  <html lang="en">
@@ -17,6 +17,7 @@
         <li><a href="#">Opinions</a></li>
         <li><a href="#">Discussions</a></li>
         <li><a href="#">Journal</a></li>
+        <li id="loginLink"><a href="#">Login</a></li>
     </ul>
     <div id="contentBox">
        <p>Latest stories</p>
