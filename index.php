@@ -17,7 +17,7 @@
         <li><a href="src/login.php">Login</a></li>
     </ul>
     <div id="contentBox">
-       <p>Latest stories</p>
+       <p>Login to view stories</p>
     </div>
 
  </body>
