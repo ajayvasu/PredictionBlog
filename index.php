@@ -1,7 +1,4 @@
 <!DOCTYPE html>
-<?php
-  echo "Hello ";
- ?>
 
  <html lang="en">
  <head>
@@ -17,7 +14,7 @@
         <li><a href="#">Opinions</a></li>
         <li><a href="#">Discussions</a></li>
         <li><a href="#">Journal</a></li>
-        <li id="loginLink"><a href="#">Login</a></li>
+        <li><a href="src/login.php">Login</a></li>
     </ul>
     <div id="contentBox">
        <p>Latest stories</p>
