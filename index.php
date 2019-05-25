@@ -1,4 +1,7 @@
 <!DOCTYPE html>
+<?php
+phpinfo();
+?>
 
  <html lang="en">
  <head>
