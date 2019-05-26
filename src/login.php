@@ -3,7 +3,7 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "";
+$password = "1234567890";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password);
@@ -14,6 +14,7 @@ if ($conn->connect_error) {
 }
 echo "Connected successfully";
 ?>
+
  <html lang="en">
  <head>
    <title>Future Blog</title>
